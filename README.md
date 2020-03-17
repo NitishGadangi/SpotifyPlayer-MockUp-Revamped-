@@ -12,3 +12,5 @@
        
 ### Libraries Used
 Used [Exo Player](https://github.com/google/ExoPlayer) and [Material CardView](https://material.io/develop/android/components/material-card-view/) Libraries to make this MockUp
+
+**Made with ❤️ by Nitish**
